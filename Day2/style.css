@@ -1,0 +1,23 @@
+body {
+  background-color: #f0f8ff;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+header h2 {
+  color: brown;
+  font-style: italic;
+}
+
+#output {
+  background-color: white;
+  box-shadow: 0 0 8px rgba(0,0,0,0.2);
+}
+
+table {
+  background-color: #fffaf0;
+}
+
+button {
+  font-size: 16px;
+}
