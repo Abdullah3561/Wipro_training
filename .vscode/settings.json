@@ -1,0 +1,12 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:Wipro_Training}/learning.db",
+            "name": "Wipro_Training_DB",
+            "group": "Local DB"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
